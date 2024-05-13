@@ -1,0 +1,48 @@
+{
+    "greeting": {
+        "tag": ["hey", "hello", "what's up", "how are you"],
+        "responses": ["hey dude", "hi, i am Stan what can i do for you today", "hello", "hi, how can i help", "how are you", "how are you"]
+    },
+    "bye": {
+        "tag": ["bye", "see you","Sia", "adios"],
+        "responses": ["have a good day", "until next time", "bye", "see ya", "adios"]
+    },
+    "positive":{
+            "tag": ["good", "great", "amazing", "delicious", "exceptional"],
+            "responses": ["im glad", "sweet", "thats good", "same here"]
+        },
+    "negative":{
+            "tag": ["bad", "terrible", "awful","discusting"],
+            "responses": ["im sorry", "thats unfortunate", "im sorry", "sorry dude"]
+        },
+    "yes": {
+            "tag": ["yes", "sure", "i guess", "ya", "yea"],
+            "responses": ["ok cool", "good", "sweet", "awsome", "wow"]
+        },
+    "no":{
+            "tag": ["no", "not"],
+            "responses": ["oh ok", "thats fine", "mmm"]
+        },
+    "maybe":{
+            "tag": ["maybe", "i'm not sure", "possibly"],
+            "responses": ["unsure. ok", "ok well i hope you do", "ok", "alright"]
+        },
+
+    "logan": {
+        "tag": ["this is Logan", "Logan is speaking"],
+        "responses": ["hello there master logan"]
+    },
+    "intro": {
+        "tag":["this is", "say hi to"],
+        "responses": ["hello", "ok, hi", "oh, hey there"]
+    },
+    "question": {
+        "tag": ["I have a question", "can I ask something"],
+        "responses": ["sure, whats on your mind", "let it rip", "im all ears", "im listening", "go ahead"]
+    },
+    "bot": {
+        "tag": ["who are you", "what are you"],
+        "responses": ["i am stanley. I was developed by master logan.", "I am a chat bot that master logan slopped together", "I am a low quality ai, you can call me stanley"]
+    }
+
+}
